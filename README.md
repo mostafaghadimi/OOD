@@ -1,4 +1,6 @@
 # Behavioral vs Structural Diagrams
+![Behavioral vs Structural Diagrams in UML](./Resource/photos/behavior-structure.png)
+
 
 **Structure** diagrams depict the `static` structure of the elements in your system. It shows the things in the system - classes, objects, packages or modules, physical nodes, components and interfaces. They also show the relationships between these things - classes that inherit from other classes, objects that own other objects, what classes belong to what packages, what nodes are connected to each other.
 
@@ -38,5 +40,8 @@ It shows how the system behaves and interacts with itself and other entities (us
 
 **Meta Model**: A model of modeling element and a completely different level of abstraction from the usual UML system or business models. Must be kept in a separate model.
 
-> TODO:// What is the difference of containment and aggregation relationship? (page 13)
+# Relations
+![UML Relations](./Resource/photos/relations.png)
+
+> TODO:// What is the difference of containment and aggregation relationship? (page 13) https://softwareengineering.stackexchange.com/questions/405247/what-is-the-difference-between-containment-and-aggregation-relationship-in-uml
 
